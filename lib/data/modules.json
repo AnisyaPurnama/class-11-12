@@ -1,0 +1,74 @@
+[
+  {
+    "milestone": 1,
+    "name": "working-with-code",
+    "project": 1,
+    "weeks": 1
+  },
+  {
+    "milestone": 2,
+    "name": "incremental-development",
+    "project": 2,
+    "weeks": 3
+  },
+  {
+    "milestone": 3,
+    "name": "debugging",
+    "project": 3,
+    "weeks": 2
+  },
+  {
+    "milestone": 4,
+    "name": "function-design",
+    "project": 4,
+    "weeks": 3
+  },
+  {
+    "milestone": 5,
+    "name": "separation-of-concerns",
+    "project": 5,
+    "weeks": 2
+  },
+  {
+    "milestone": 6,
+    "name": "state",
+    "project": 6,
+    "weeks": 2
+  },
+  {
+    "milestone": 7,
+    "name": "encapsulation",
+    "project": 7,
+    "weeks": 3
+  },
+  {
+    "milestone": 8,
+    "name": "asynchronous-programming",
+    "project": 8,
+    "weeks": 3
+  },
+  {
+    "milestone": 9,
+    "name": "web-apps",
+    "project": 9,
+    "weeks": 4
+  },
+  {
+    "milestone": 10,
+    "name": "databases",
+    "project": 10,
+    "weeks": 2
+  },
+  {
+    "milestone": 11,
+    "name": "frontend-frameworks",
+    "project": 11,
+    "weeks": 2
+  },
+  {
+    "milestone": 12,
+    "name": "agile-development",
+    "project": 12,
+    "weeks": 6
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "class-11-12",
+  "version": "1.0.0",
+  "description": "home repo for class 11/12",
+  "main": "README.md",
+  "scripts": {
+    "fetch-students": "node lib/fetch-avatars.js students",
+    "fetch-coaches": "node lib/fetch-avatars.js coaches",
+    "fetch": "npm run fetch-students && npm run fetch-coaches",
+    "render-modules": "node lib/render-section.js modules",
+    "render-students": "node lib/render-section.js students",
+    "render-coaches": "node lib/render-section.js coaches",
+    "render-links": "node lib/render-links.js",
+    "render-header": "node lib/render-header.js",
+    "render": "npm run render-modules && npm run render-students && npm run render-coaches && npm run render-links && npm run render-header",
+    "build": "npm run fetch && npm run render"
+  },
+  "author": "",
+  "license": "MIT"
+}
