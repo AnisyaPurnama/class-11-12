@@ -66,7 +66,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <li><h3><a href="https://hackyourfuture.be/agile-development" target="_blank">agile-development</a></h3>
   <ul><li><p>    6 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/12" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aagile-development+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/12" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/agile-development#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 
-<ul></details>
+</ul></details>
 
 
 [TOP](#class-11-12)
