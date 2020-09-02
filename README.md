@@ -75,9 +75,311 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN STUDENTS -->
+<h2>Students</h2><details><summary>expand</summary>
+
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Anisya</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Arpine</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Bernardo</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Brain</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Burak Sinan</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Chiok</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Chyngyz</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Divya Sree</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Emely Roxana</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Houcine</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Himanshi</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Raoul</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Krystyna</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Kemi</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Liubov</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Laura Alicia</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Mahmoud</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Maria</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Marie Belyse</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Moon</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Peyman</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Preeti</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Rafael García</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Samir</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Sandra</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Sharaf</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Solomon Welday</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">ŞABAN</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+<table> <tr>
+  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
+  <td> <h3 display="inline"><a href="https://.github.io">Tahmina</a></h3>
+    <ul>
+        <li><a href="https://github.com/"></a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A">assignee</a></code></li>
+    </ul>
+  </td>
+</tr></table> 
+</details>
+
+
+[TOP](#class-11-12)
 <!-- END STUDENTS -->
 
 ---
 
 <!-- BEGIN COACHES -->
+<h2>Coaches</h2><details><summary>expand</summary>
+
+</details>
+
+
+[TOP](#class-11-12)
 <!-- END COACHES -->
