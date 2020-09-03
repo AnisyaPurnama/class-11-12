@@ -13,62 +13,68 @@
   },
   {
     "milestone": 3,
-    "name": "debugging",
+    "name": "ui-ux-design",
     "project": 3,
-    "weeks": 2
+    "weeks": 1
   },
   {
     "milestone": 4,
-    "name": "computational-thinking",
+    "name": "debugging",
     "project": 4,
-    "weeks": 3
-  },
-  {
-    "milestone": 5,
-    "name": "separation-of-concerns",
-    "project": 5,
     "weeks": 2
   },
   {
+    "milestone": 5,
+    "name": "computational-thinking",
+    "project": 5,
+    "weeks": 3
+  },
+  {
     "milestone": 6,
-    "name": "state",
+    "name": "separation-of-concerns",
     "project": 6,
     "weeks": 2
   },
   {
     "milestone": 7,
-    "name": "encapsulation",
+    "name": "state",
     "project": 7,
-    "weeks": 3
+    "weeks": 2
   },
   {
     "milestone": 8,
-    "name": "asynchronous-programming",
+    "name": "encapsulation",
     "project": 8,
     "weeks": 3
   },
   {
     "milestone": 9,
-    "name": "web-apps",
+    "name": "asynchronous-programming",
     "project": 9,
-    "weeks": 4
+    "weeks": 3
   },
   {
     "milestone": 10,
-    "name": "databases",
+    "name": "web-apps",
     "project": 10,
-    "weeks": 2
+    "weeks": 4
   },
   {
     "milestone": 11,
-    "name": "frontend-frameworks",
+    "name": "databases",
     "project": 11,
     "weeks": 2
   },
   {
     "milestone": 12,
-    "name": "agile-development",
+    "name": "frontend-frameworks",
     "project": 12,
+    "weeks": 2
+  },
+  {
+    "milestone": 13,
+    "name": "agile-development",
+    "project": 13,
     "weeks": 6
   }
 ]
