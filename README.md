@@ -355,7 +355,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     </ul>
   </td>
 </tr></table> </li>
-<ul></details>
+</ul></details>
 
 
 [TOP](#class-11-12)
@@ -366,7 +366,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN COACHES -->
 <h2>Coaches</h2><details ><summary>expand</summary><ul  style="list-style-type:none;">
 
-<ul></details>
+</ul></details>
 
 
 [TOP](#class-11-12)
