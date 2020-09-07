@@ -8,7 +8,6 @@ Slack is great for chatting but links and good explanations can easily get lost 
 
 <!-- BEGIN LINKS -->
 
-- [Homework Boards](https://github.com/HackYourFutureBelgium/class-11-12/projects)
 - [Class Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
     - [`help-wanted`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Ahelp-wanted)
     - [`roll-call`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Aroll-call)
