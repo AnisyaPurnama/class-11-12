@@ -11,7 +11,6 @@ Slack is great for chatting but links and good explanations can easily get lost 
 - [Homework Boards](https://github.com/HackYourFutureBelgium/class-11-12/projects)
 - [Class Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
     - [`help-wanted`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Ahelp-wanted)
-    - [`review`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Areview)
     - [`roll-call`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Aroll-call)
 - [Pull Requests](https://github.com/HackYourFutureBelgium/class-11-12/pulls)
 - [Randomizer](https://hackyourfuture.be/class-11-12/randomizer)
