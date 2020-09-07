@@ -91,9 +91,10 @@
           `  <h3>Group ${index + 1}</h3>` +
           `  <ul>` +
           `    ${group
-            .map(student => (
-              `<li><a href="https://github.com/${student.userName}" target="_blank">${student.name}</a></li>`
-            ))
+            .map(student => student.userName
+              ? `<li><a href="https://github.com/${student.userName}" target="_blank">${student.name}</a></li>`
+              : `<li>${student.name}</li>`
+            )
             .reduce((all, next) => all + next)}` +
           `  </ul>` +
           `<div>`
