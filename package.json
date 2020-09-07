@@ -7,7 +7,7 @@
     "fetch-students": "node lib/fetch-avatars.js students",
     "fetch-coaches": "node lib/fetch-avatars.js coaches",
     "fetch": "npm run fetch-students && npm run fetch-coaches",
-    "render-modules": "node lib/render-section.js modules yes",
+    "render-modules": "node lib/render-section.js modules yes 1",
     "render-students": "node lib/render-section.js students",
     "render-coaches": "node lib/render-section.js coaches",
     "render-links": "node lib/render-links.js",

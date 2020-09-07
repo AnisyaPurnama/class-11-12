@@ -28,7 +28,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN MODULES -->
-<h2>Modules</h2><details><summary>expand</summary><ol>
+<h2>Modules</h2><details><summary>expand</summary><ol start="1">
 
 <li><h3><a href="https://hackyourfuture.be/working-with-code" target="_blank">working-with-code</a></h3>
   <ul><li><p>    1 week    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/1" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aworking-with-code+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/1" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/working-with-code#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
@@ -69,7 +69,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <li><h3><a href="https://hackyourfuture.be/agile-development" target="_blank">agile-development</a></h3>
   <ul><li><p>    6 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/13" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aagile-development+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/13" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/agile-development#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
 
-</ol></details>
+</ol></details >
 
 
 [TOP](#class-11-12)
@@ -81,52 +81,52 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <h2>Students</h2><details><summary>expand</summary>
 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Anisya</a></h3>
+  <td><img src='./lib/avatars/students/AnisyaPurnama-avatar.jpeg' alt='AnisyaPurnama github photo' /></td>
+  <td> <h3 display="inline"><a href="https://AnisyaPurnama.github.io" target="_blank">Anisya</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/AnisyaPurnama"  target="_blank">AnisyaPurnama</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AAnisyaPurnama"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AAnisyaPurnama"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Arpine</a></h3>
+  <td><img src='./lib/avatars/students/Ina-arpine-avatar.jpeg' alt='Ina-arpine github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Ina-arpine.github.io" target="_blank">Arpine</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Ina-arpine"  target="_blank">Ina-arpine</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AIna-arpine"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AIna-arpine"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Bernardo</a></h3>
+  <td><img src='./lib/avatars/students/bermarte-avatar.jpeg' alt='bermarte github photo' /></td>
+  <td> <h3 display="inline"><a href="https://bermarte.github.io" target="_blank">Bernardo</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/bermarte"  target="_blank">bermarte</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Abermarte"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Abermarte"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Brain</a></h3>
+  <td><img src='./lib/avatars/students/Brainketunze-avatar.jpeg' alt='Brainketunze github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Brainketunze.github.io" target="_blank">Brain</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Brainketunze"  target="_blank">Brainketunze</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3ABrainketunze"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ABrainketunze"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Burak Sinan</a></h3>
+  <td><img src='./lib/avatars/students/businan-avatar.jpeg' alt='businan github photo' /></td>
+  <td> <h3 display="inline"><a href="https://businan.github.io" target="_blank">Burak Sinan</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/businan"  target="_blank">businan</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Abusinan"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Abusinan"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
@@ -151,12 +151,12 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Divya Sree</a></h3>
+  <td><img src='./lib/avatars/students/Divyasree345-avatar.jpeg' alt='Divyasree345 github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Divyasree345.github.io" target="_blank">Divya Sree</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Divyasree345"  target="_blank">Divyasree345</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3ADivyasree345"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ADivyasree345"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
@@ -171,12 +171,12 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Houcine</a></h3>
+  <td><img src='./lib/avatars/students/Houcinos-avatar.jpeg' alt='Houcinos github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Houcinos.github.io" target="_blank">Houcine</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Houcinos"  target="_blank">Houcinos</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AHoucinos"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AHoucinos"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
@@ -191,22 +191,22 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Raoul</a></h3>
+  <td><img src='./lib/avatars/students/jraoul2002-avatar.jpeg' alt='jraoul2002 github photo' /></td>
+  <td> <h3 display="inline"><a href="https://jraoul2002.github.io" target="_blank">Raoul</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/jraoul2002"  target="_blank">jraoul2002</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Ajraoul2002"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Ajraoul2002"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Krystyna</a></h3>
+  <td><img src='./lib/avatars/students/KrystynaMil-avatar.jpeg' alt='KrystynaMil github photo' /></td>
+  <td> <h3 display="inline"><a href="https://KrystynaMil.github.io" target="_blank">Krystyna</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/KrystynaMil"  target="_blank">KrystynaMil</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AKrystynaMil"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AKrystynaMil"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
@@ -231,12 +231,12 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Laura Alicia</a></h3>
+  <td><img src='./lib/avatars/students/lauraramirez220612-avatar.jpeg' alt='lauraramirez220612 github photo' /></td>
+  <td> <h3 display="inline"><a href="https://lauraramirez220612.github.io" target="_blank">Laura Alicia</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/lauraramirez220612"  target="_blank">lauraramirez220612</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Alauraramirez220612"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Alauraramirez220612"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
@@ -251,12 +251,12 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Maria</a></h3>
+  <td><img src='./lib/avatars/students/sashinskaya-avatar.jpeg' alt='sashinskaya github photo' /></td>
+  <td> <h3 display="inline"><a href="https://sashinskaya.github.io" target="_blank">Maria</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/sashinskaya"  target="_blank">sashinskaya</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asashinskaya"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asashinskaya"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
@@ -271,62 +271,62 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Moon</a></h3>
+  <td><img src='./lib/avatars/students/Moon-NguyetDuong-avatar.jpeg' alt='Moon-NguyetDuong github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Moon-NguyetDuong.github.io" target="_blank">Moon</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Moon-NguyetDuong"  target="_blank">Moon-NguyetDuong</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AMoon-NguyetDuong"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AMoon-NguyetDuong"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Peyman</a></h3>
+  <td><img src='./lib/avatars/students/peymanshahmarimikaeeldarehsi-avatar.jpeg' alt='peymanshahmarimikaeeldarehsi github photo' /></td>
+  <td> <h3 display="inline"><a href="https://peymanshahmarimikaeeldarehsi.github.io" target="_blank">Peyman</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/peymanshahmarimikaeeldarehsi"  target="_blank">peymanshahmarimikaeeldarehsi</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Apeymanshahmarimikaeeldarehsi"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Apeymanshahmarimikaeeldarehsi"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Preeti</a></h3>
+  <td><img src='./lib/avatars/students/Preeti-t-avatar.jpeg' alt='Preeti-t github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Preeti-t.github.io" target="_blank">Preeti</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Preeti-t"  target="_blank">Preeti-t</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3APreeti-t"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3APreeti-t"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Rafael García</a></h3>
+  <td><img src='./lib/avatars/students/rago89-avatar.jpeg' alt='rago89 github photo' /></td>
+  <td> <h3 display="inline"><a href="https://rago89.github.io" target="_blank">Rafael García</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/rago89"  target="_blank">rago89</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Arago89"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Arago89"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Samir</a></h3>
+  <td><img src='./lib/avatars/students/samirm00-avatar.jpeg' alt='samirm00 github photo' /></td>
+  <td> <h3 display="inline"><a href="https://samirm00.github.io" target="_blank">Samir</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/samirm00"  target="_blank">samirm00</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asamirm00"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asamirm00"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Sandra</a></h3>
+  <td><img src='./lib/avatars/students/Atinos31-avatar.jpeg' alt='Atinos31 github photo' /></td>
+  <td> <h3 display="inline"><a href="https://Atinos31.github.io" target="_blank">Sandra</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/Atinos31"  target="_blank">Atinos31</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3AAtinos31"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AAtinos31"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
@@ -341,36 +341,36 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Solomon Welday</a></h3>
+  <td><img src='./lib/avatars/students/solomunwelday-avatar.jpeg' alt='solomunwelday github photo' /></td>
+  <td> <h3 display="inline"><a href="https://solomunwelday.github.io" target="_blank">Solomon Welday</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/solomunwelday"  target="_blank">solomunwelday</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asolomunwelday"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asolomunwelday"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">ŞABAN</a></h3>
+  <td><img src='./lib/avatars/students/sabanyelkenci-avatar.jpeg' alt='sabanyelkenci github photo' /></td>
+  <td> <h3 display="inline"><a href="https://sabanyelkenci.github.io" target="_blank">Şaban</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/sabanyelkenci"  target="_blank">sabanyelkenci</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asabanyelkenci"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asabanyelkenci"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
 <table> <tr>
-  <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
-  <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Tahmina</a></h3>
+  <td><img src='./lib/avatars/students/tahminarasoli-avatar.jpeg' alt='tahminarasoli github photo' /></td>
+  <td> <h3 display="inline"><a href="https://tahminarasoli.github.io" target="_blank">Tahmina</a></h3>
     <ul>
-        <li><a href="https://github.com/"  target="_blank"></a></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3A"  target="_blank">author</a></code></li>
-        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
+        <li><a href="https://github.com/tahminarasoli"  target="_blank">tahminarasoli</a></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Atahminarasoli"  target="_blank">author</a></code></li>
+        <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Atahminarasoli"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
 </tr></table> 
-</details>
+</details >
 
 
 [TOP](#class-11-12)
@@ -381,7 +381,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN COACHES -->
 <h2>Coaches</h2><details><summary>expand</summary>
 
-</details>
+</details >
 
 
 [TOP](#class-11-12)
