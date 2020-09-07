@@ -28,47 +28,34 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN MODULES -->
-<h2>Modules</h2><details><summary>expand</summary><ol start="1">
+<h2>Modules</h2><details open><summary>expand</summary><ol start="1">
 
 <li><h3><a href="https://hackyourfuture.be/working-with-code" target="_blank">working-with-code</a></h3>
   <ul><li><p>    1 week    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/1" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aworking-with-code+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/1" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/working-with-code#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/incremental-development" target="_blank">incremental-development</a></h3>
   <ul><li><p>    3 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/2" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aincremental-development+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/2" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/incremental-development#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/ui-ux-design" target="_blank">ui-ux-design</a></h3>
   <ul><li><p>    1 week    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/3" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aui-ux-design+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/3" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/ui-ux-design#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/debugging" target="_blank">debugging</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/4" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Adebugging+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/4" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/debugging#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/computational-thinking" target="_blank">computational-thinking</a></h3>
   <ul><li><p>    3 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/5" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Acomputational-thinking+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/5" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/computational-thinking#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/separation-of-concerns" target="_blank">separation-of-concerns</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/6" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aseparation-of-concerns+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/6" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/separation-of-concerns#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/state" target="_blank">state</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/7" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Astate+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/7" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/state#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/encapsulation" target="_blank">encapsulation</a></h3>
   <ul><li><p>    3 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/8" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aencapsulation+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/8" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/encapsulation#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/asynchronous-programming" target="_blank">asynchronous-programming</a></h3>
   <ul><li><p>    3 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/9" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aasynchronous-programming+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/9" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/asynchronous-programming#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/web-apps" target="_blank">web-apps</a></h3>
   <ul><li><p>    4 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/10" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aweb-apps+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/10" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/web-apps#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/databases" target="_blank">databases</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/11" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Adatabases+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/11" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/databases#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/frontend-frameworks" target="_blank">frontend-frameworks</a></h3>
   <ul><li><p>    2 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/12" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Afrontend-frameworks+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/12" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/frontend-frameworks#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 <li><h3><a href="https://hackyourfuture.be/agile-development" target="_blank">agile-development</a></h3>
   <ul><li><p>    6 weeks    | <a href="https://github.com/HackYourFutureBelgium/class-11-12/projects/13" target="_blank">project board</a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=milestone%3Aagile-development+label%3Aindividual" target="_blank"><code>individual</code></a>     | <a href="https://github.com/HackYourFutureBelgium/class-11-12/milestone/13" target="_blank">all issues</a>     | <a href="https://hackyourfuture.be/agile-development#class-recordings" target="_blank">class recordings</a>   </p></li></ul></li>
-
 </ol></details >
 
 
@@ -78,9 +65,9 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN STUDENTS -->
-<h2>Students</h2><details><summary>expand</summary>
+<h2>Students</h2><details ><summary>expand</summary><ul  style="list-style-type:none";>
 
-<table> <tr>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/AnisyaPurnama-avatar.jpeg' alt='AnisyaPurnama github photo' /></td>
   <td> <h3 display="inline"><a href="https://AnisyaPurnama.github.io" target="_blank">Anisya</a></h3>
     <ul>
@@ -89,8 +76,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AAnisyaPurnama"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/Ina-arpine-avatar.jpeg' alt='Ina-arpine github photo' /></td>
   <td> <h3 display="inline"><a href="https://Ina-arpine.github.io" target="_blank">Arpine</a></h3>
     <ul>
@@ -99,8 +86,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AIna-arpine"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/bermarte-avatar.jpeg' alt='bermarte github photo' /></td>
   <td> <h3 display="inline"><a href="https://bermarte.github.io" target="_blank">Bernardo</a></h3>
     <ul>
@@ -109,8 +96,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Abermarte"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/Brainketunze-avatar.jpeg' alt='Brainketunze github photo' /></td>
   <td> <h3 display="inline"><a href="https://Brainketunze.github.io" target="_blank">Brain</a></h3>
     <ul>
@@ -119,8 +106,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ABrainketunze"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/businan-avatar.jpeg' alt='businan github photo' /></td>
   <td> <h3 display="inline"><a href="https://businan.github.io" target="_blank">Burak Sinan</a></h3>
     <ul>
@@ -129,8 +116,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Abusinan"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Chiok</a></h3>
     <ul>
@@ -139,8 +126,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Chyngyz</a></h3>
     <ul>
@@ -149,8 +136,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/Divyasree345-avatar.jpeg' alt='Divyasree345 github photo' /></td>
   <td> <h3 display="inline"><a href="https://Divyasree345.github.io" target="_blank">Divya Sree</a></h3>
     <ul>
@@ -159,8 +146,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3ADivyasree345"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Emely Roxana</a></h3>
     <ul>
@@ -169,8 +156,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/Houcinos-avatar.jpeg' alt='Houcinos github photo' /></td>
   <td> <h3 display="inline"><a href="https://Houcinos.github.io" target="_blank">Houcine</a></h3>
     <ul>
@@ -179,8 +166,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AHoucinos"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Himanshi</a></h3>
     <ul>
@@ -189,8 +176,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/jraoul2002-avatar.jpeg' alt='jraoul2002 github photo' /></td>
   <td> <h3 display="inline"><a href="https://jraoul2002.github.io" target="_blank">Raoul</a></h3>
     <ul>
@@ -199,8 +186,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Ajraoul2002"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/KrystynaMil-avatar.jpeg' alt='KrystynaMil github photo' /></td>
   <td> <h3 display="inline"><a href="https://KrystynaMil.github.io" target="_blank">Krystyna</a></h3>
     <ul>
@@ -209,8 +196,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AKrystynaMil"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Kemi</a></h3>
     <ul>
@@ -219,8 +206,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Liubov</a></h3>
     <ul>
@@ -229,8 +216,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/lauraramirez220612-avatar.jpeg' alt='lauraramirez220612 github photo' /></td>
   <td> <h3 display="inline"><a href="https://lauraramirez220612.github.io" target="_blank">Laura Alicia</a></h3>
     <ul>
@@ -239,8 +226,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Alauraramirez220612"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Mahmoud</a></h3>
     <ul>
@@ -249,8 +236,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/sashinskaya-avatar.jpeg' alt='sashinskaya github photo' /></td>
   <td> <h3 display="inline"><a href="https://sashinskaya.github.io" target="_blank">Maria</a></h3>
     <ul>
@@ -259,8 +246,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asashinskaya"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Marie Belyse</a></h3>
     <ul>
@@ -269,8 +256,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/Moon-NguyetDuong-avatar.jpeg' alt='Moon-NguyetDuong github photo' /></td>
   <td> <h3 display="inline"><a href="https://Moon-NguyetDuong.github.io" target="_blank">Moon</a></h3>
     <ul>
@@ -279,8 +266,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AMoon-NguyetDuong"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/peymanshahmarimikaeeldarehsi-avatar.jpeg' alt='peymanshahmarimikaeeldarehsi github photo' /></td>
   <td> <h3 display="inline"><a href="https://peymanshahmarimikaeeldarehsi.github.io" target="_blank">Peyman</a></h3>
     <ul>
@@ -289,8 +276,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Apeymanshahmarimikaeeldarehsi"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/Preeti-t-avatar.jpeg' alt='Preeti-t github photo' /></td>
   <td> <h3 display="inline"><a href="https://Preeti-t.github.io" target="_blank">Preeti</a></h3>
     <ul>
@@ -299,8 +286,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3APreeti-t"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/rago89-avatar.jpeg' alt='rago89 github photo' /></td>
   <td> <h3 display="inline"><a href="https://rago89.github.io" target="_blank">Rafael García</a></h3>
     <ul>
@@ -309,8 +296,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Arago89"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/samirm00-avatar.jpeg' alt='samirm00 github photo' /></td>
   <td> <h3 display="inline"><a href="https://samirm00.github.io" target="_blank">Samir</a></h3>
     <ul>
@@ -319,8 +306,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asamirm00"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/Atinos31-avatar.jpeg' alt='Atinos31 github photo' /></td>
   <td> <h3 display="inline"><a href="https://Atinos31.github.io" target="_blank">Sandra</a></h3>
     <ul>
@@ -329,8 +316,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3AAtinos31"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/-avatar.jpeg' alt=' github photo' /></td>
   <td> <h3 display="inline"><a href="https://.github.io" target="_blank">Sharaf</a></h3>
     <ul>
@@ -339,8 +326,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3A"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/solomunwelday-avatar.jpeg' alt='solomunwelday github photo' /></td>
   <td> <h3 display="inline"><a href="https://solomunwelday.github.io" target="_blank">Solomon Welday</a></h3>
     <ul>
@@ -349,8 +336,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asolomunwelday"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/sabanyelkenci-avatar.jpeg' alt='sabanyelkenci github photo' /></td>
   <td> <h3 display="inline"><a href="https://sabanyelkenci.github.io" target="_blank">Şaban</a></h3>
     <ul>
@@ -359,8 +346,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asabanyelkenci"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-<table> <tr>
+</tr></table> </li>
+<li><table> <tr>
   <td><img src='./lib/avatars/students/tahminarasoli-avatar.jpeg' alt='tahminarasoli github photo' /></td>
   <td> <h3 display="inline"><a href="https://tahminarasoli.github.io" target="_blank">Tahmina</a></h3>
     <ul>
@@ -369,8 +356,8 @@ Slack is great for chatting but links and good explanations can easily get lost 
         <li><code><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Atahminarasoli"  target="_blank">assignee</a></code></li>
     </ul>
   </td>
-</tr></table> 
-</details >
+</tr></table> </li>
+<ul></details >
 
 
 [TOP](#class-11-12)
@@ -379,9 +366,9 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN COACHES -->
-<h2>Coaches</h2><details><summary>expand</summary>
+<h2>Coaches</h2><details ><summary>expand</summary><ul  style="list-style-type:none";>
 
-</details >
+<ul></details >
 
 
 [TOP](#class-11-12)
