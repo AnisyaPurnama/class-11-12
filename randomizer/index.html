@@ -105,7 +105,7 @@
   </script>
 
   <script id='handlers'>
-    const randomizeHandler = (students) =>
+    const randomizeHandler = (students, groupsEl) =>
       (event) => {
         const target = event.target;
         if (target.type !== 'button') {
@@ -119,8 +119,7 @@
           ? byNumberOfGroups(students, number)
           : byGroupSize(students, number);
 
-        document.getElementById('groups')
-          .innerHTML = renderGroups(groups);
+        groupsEl.innerHTML = renderGroups(groups);
       };
   </script>
 
@@ -130,7 +129,9 @@
       .then(students => {
         const form = document.getElementById('randomizer-form');
         form.number.setAttribute('max', students.length);
-        form.addEventListener('click', randomizeHandler(students));
+
+        const renderGroups = randomizeHandler(students, document.getElementById('groups'));
+        form.addEventListener('click', renderGroups);
       })
       .catch(err => {
         console.log(err);
