@@ -366,16 +366,6 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN COACHES -->
 <h2>Coaches</h2><details ><summary>expand</summary><ul  style="list-style-type:none;">
 
-<li><table><tr>
-  <td><img src='./lib/avatars/coaches/otagi-avatar.jpeg' alt='Tiago' /></td>
-  <td> <h3 display="inline">
-Tiago    </h3>
-    <ul>
-        <li><a href="https://github.com/otagi"  target="_blank">otagi</a></li>
-        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Aotagi"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Aotagi"  target="_blank">assignee</a></li>
-<li><code>Working with Code</code></li>    </ul>
-  </td>
-</tr></table></li>
 </ul></details>
 
 
