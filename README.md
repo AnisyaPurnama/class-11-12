@@ -8,11 +8,14 @@ Slack is great for chatting but links and good explanations can easily get lost 
 
 <!-- BEGIN LINKS -->
 
-- [Class Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
+- [Modules](#modules)
+- [Students](#students)
+- [Coaches](#coaches)
+- [Issues](https://github.com/HackYourFutureBelgium/class-11-12/issues)
     - [`help-wanted`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Ahelp-wanted)
     - [`roll-call`](https://github.com/HackYourFutureBelgium/class-11-12/issues?q=label%3Aroll-call)
 - [Pull Requests](https://github.com/HackYourFutureBelgium/class-11-12/pulls)
-- [Randomizer](https://hackyourfuture.be/class-11-12/randomizer)
+- [Randomizer](./randomizer/index.html)
 - [Shared Notes](./shared-notes)
 
 <!-- END LINKS -->
@@ -22,11 +25,14 @@ Slack is great for chatting but links and good explanations can easily get lost 
 - [Guidebook](https://home.hackyourfuture.be/students)
 - [Curriculum](https://home.hackyourfuture.be/curriculum)
 - [Study](https://study.hackyourfuture.be)
+- [GitHub](https://github.com/hackyourfuturebelgium)
 
 ---
 
 <!-- BEGIN MODULES -->
-<h2>Modules</h2><details open><summary>expand</summary><ol start="0">
+## Modules
+
+<details open><summary>expand</summary><ol start="0">
 
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/precourse" target="_blank">precourse</a></h3>
 </li>
@@ -65,7 +71,9 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN STUDENTS -->
-<h2>Students</h2><details open><summary>expand</summary><ul  style="list-style-type:none;">
+## Students
+
+<details open><summary>expand</summary><ul  style="list-style-type:none;">
 
 <li><table> <tr>
   <td><img src='./lib/avatars/students/AnisyaPurnama-avatar.jpeg' alt='AnisyaPurnama github photo' /></td>
@@ -366,7 +374,9 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN COACHES -->
-<h2>Coaches</h2><details open><summary>expand</summary><ul  style="list-style-type:none;">
+## Coaches
+
+<details open><summary>expand</summary><ul  style="list-style-type:none;">
 
 <li><table><tr>
   <td><img src='./lib/avatars/coaches/nawatend-avatar.jpeg' alt='Nawang' /></td>
