@@ -27,7 +27,7 @@
     <hr>
     <div id="groups"></div>
     <hr>
-    <button><a id='back-to-repo' href=''>class home page</a></button>
+    <button><a id='back-to-repo' href='../'>class home page</a></button>
   </div>
 
   <script id='logic'>
@@ -132,18 +132,6 @@
 
         const renderGroups = randomizeHandler(students, document.getElementById('groups'));
         form.addEventListener('click', renderGroups);
-      })
-      .catch(err => {
-        console.log(err);
-      });
-
-    fetch('../lib/data/index.json')
-      .then(res => res.json())
-      .then(mainData => {
-        document.getElementById('header')
-          .innerHTML = mainData.repoName;
-        document.getElementById('back-to-repo')
-          .href = `${mainData.domain}/${mainData.repoName}`;
       })
       .catch(err => {
         console.log(err);
