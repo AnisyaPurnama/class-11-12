@@ -65,7 +65,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN STUDENTS -->
-<h2>Students</h2><details ><summary>expand</summary><ul  style="list-style-type:none;">
+<h2>Students</h2><details open><summary>expand</summary><ul  style="list-style-type:none;">
 
 <li><table> <tr>
   <td><img src='./lib/avatars/students/AnisyaPurnama-avatar.jpeg' alt='AnisyaPurnama github photo' /></td>
@@ -366,7 +366,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 ---
 
 <!-- BEGIN COACHES -->
-<h2>Coaches</h2><details ><summary>expand</summary><ul  style="list-style-type:none;">
+<h2>Coaches</h2><details open><summary>expand</summary><ul  style="list-style-type:none;">
 
 <li><table><tr>
   <td><img src='./lib/avatars/coaches/nawatend-avatar.jpeg' alt='Nawang' /></td>
