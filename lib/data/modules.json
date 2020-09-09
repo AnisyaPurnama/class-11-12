@@ -1,5 +1,9 @@
 [
   {
+    "name": "precourse",
+    "url": "https://home.hackyourfuture.be/curriculum/precourse"
+  },
+  {
     "milestone": 1,
     "name": "working-with-code",
     "project": 1,
