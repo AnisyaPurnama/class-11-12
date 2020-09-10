@@ -12,7 +12,8 @@
     "userName": "snicoll",
     "homePage": "https://about.me/snicoll",
     "modules": [
-      "Working with Code"
+      "Working with Code",
+      "Incremental Development"
     ]
   },
   {
@@ -20,14 +21,26 @@
     "userName": "otagi",
     "homePage": "https://www.mendes-costa.net/",
     "modules": [
-      "Working with Code"
+      "Working with Code",
+      "Incremental Development"
+    ]
+  },
+  {
+    "name": "Marie",
+    "userName": "mariedevos",
+    "imgURL": "https://mir-s3-cdn-cf.behance.net/user/230/7de49699884997.5e480bcfae8eb.jpg",
+    "homePage": "https://www.behance.net/mariedevos",
+    "modules": [
+      "Working with Code",
+      "Incremental Development"
     ]
   },
   {
     "name": "Unmesh",
     "userName": "unmeshvrije",
     "modules": [
-      "Working with Code"
+      "Working with Code",
+      "Incremental Development"
     ]
   }
 ]
