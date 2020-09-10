@@ -375,7 +375,9 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN COACHES -->
 ## Coaches
 
-<details open><summary>expand</summary><ul  style="list-style-type:none;">
+<details open>
+  <summary>collapse/expand</summary>
+  <ul  style="list-style-type:none;">
 
 <li><table><tr>
   <td><img src='./lib/avatars/coaches/nawatend-avatar.jpeg' alt='Nawang' /></td>
@@ -384,6 +386,36 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><a href="https://github.com/nawatend"  target="_blank">nawatend</a></li>
         <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Anawatend"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Anawatend"  target="_blank">assignee</a></li>
+<li><code>Working with Code</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/snicoll-avatar.jpeg' alt='Stéphane' /></td>
+  <td> <h3 display="inline">
+      <a href="https://about.me/snicoll"  target="_blank">Stéphane</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/snicoll"  target="_blank">snicoll</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Asnicoll"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Asnicoll"  target="_blank">assignee</a></li>
+<li><code>Working with Code</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/otagi-avatar.jpeg' alt='Tiago' /></td>
+  <td> <h3 display="inline">
+      <a href="https://www.mendes-costa.net/"  target="_blank">Tiago</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/otagi"  target="_blank">otagi</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Aotagi"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Aotagi"  target="_blank">assignee</a></li>
+<li><code>Working with Code</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/unmeshvrije-avatar.jpeg' alt='Unmesh' /></td>
+  <td> <h3 display="inline">
+Unmesh    </h3>
+    <ul>
+        <li><a href="https://github.com/unmeshvrije"  target="_blank">unmeshvrije</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Aunmeshvrije"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Aunmeshvrije"  target="_blank">assignee</a></li>
 <li><code>Working with Code</code></li>    </ul>
   </td>
 </tr></table></li>

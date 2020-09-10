@@ -6,5 +6,28 @@
     "modules": [
       "Working with Code"
     ]
+  },
+  {
+    "name": "Stéphane",
+    "userName": "snicoll",
+    "homePage": "https://about.me/snicoll",
+    "modules": [
+      "Working with Code"
+    ]
+  },
+  {
+    "name": "Tiago",
+    "userName": "otagi",
+    "homePage": "https://www.mendes-costa.net/",
+    "modules": [
+      "Working with Code"
+    ]
+  },
+  {
+    "name": "Unmesh",
+    "userName": "unmeshvrije",
+    "modules": [
+      "Working with Code"
+    ]
   }
 ]
