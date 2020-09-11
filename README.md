@@ -79,7 +79,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   <ul  style="list-style-type:none;">
 
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/AnisyaPurnama.jpeg' style="height:150px: width:150px;" alt='AnisyaPurnama github photo' /></td>
+  <td><img src='./lib/avatars/students/AnisyaPurnama.jpeg' height="150px" width="150px" alt='AnisyaPurnama github photo' /></td>
   <td> <h3 display="inline"><a href="https://AnisyaPurnama.github.io" target="_blank">Anisya</a></h3>
     <ul>
         <li><a href="https://github.com/AnisyaPurnama"  target="_blank">AnisyaPurnama</a></li>
@@ -89,7 +89,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Ina-arpine.jpeg' style="height:150px: width:150px;" alt='Ina-arpine github photo' /></td>
+  <td><img src='./lib/avatars/students/Ina-arpine.jpeg' height="150px" width="150px" alt='Ina-arpine github photo' /></td>
   <td> <h3 display="inline"><a href="https://Ina-arpine.github.io" target="_blank">Arpine</a></h3>
     <ul>
         <li><a href="https://github.com/Ina-arpine"  target="_blank">Ina-arpine</a></li>
@@ -99,7 +99,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/bermarte.jpeg' style="height:150px: width:150px;" alt='bermarte github photo' /></td>
+  <td><img src='./lib/avatars/students/bermarte.jpeg' height="150px" width="150px" alt='bermarte github photo' /></td>
   <td> <h3 display="inline"><a href="https://bermarte.github.io" target="_blank">Bernardo</a></h3>
     <ul>
         <li><a href="https://github.com/bermarte"  target="_blank">bermarte</a></li>
@@ -109,7 +109,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Brainketunze.jpeg' style="height:150px: width:150px;" alt='Brainketunze github photo' /></td>
+  <td><img src='./lib/avatars/students/Brainketunze.jpeg' height="150px" width="150px" alt='Brainketunze github photo' /></td>
   <td> <h3 display="inline"><a href="https://Brainketunze.github.io" target="_blank">Brain</a></h3>
     <ul>
         <li><a href="https://github.com/Brainketunze"  target="_blank">Brainketunze</a></li>
@@ -119,7 +119,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/businan.jpeg' style="height:150px: width:150px;" alt='businan github photo' /></td>
+  <td><img src='./lib/avatars/students/businan.jpeg' height="150px" width="150px" alt='businan github photo' /></td>
   <td> <h3 display="inline"><a href="https://businan.github.io" target="_blank">Burak Sinan</a></h3>
     <ul>
         <li><a href="https://github.com/businan"  target="_blank">businan</a></li>
@@ -129,7 +129,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/22count22.jpeg' style="height:150px: width:150px;" alt='22count22 github photo' /></td>
+  <td><img src='./lib/avatars/students/22count22.jpeg' height="150px" width="150px" alt='22count22 github photo' /></td>
   <td> <h3 display="inline"><a href="https://22count22.github.io" target="_blank">Chiok</a></h3>
     <ul>
         <li><a href="https://github.com/22count22"  target="_blank">22count22</a></li>
@@ -139,7 +139,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/maniiasov.jpeg' style="height:150px: width:150px;" alt='maniiasov github photo' /></td>
+  <td><img src='./lib/avatars/students/maniiasov.jpeg' height="150px" width="150px" alt='maniiasov github photo' /></td>
   <td> <h3 display="inline"><a href="https://maniiasov.github.io" target="_blank">Chyngyz</a></h3>
     <ul>
         <li><a href="https://github.com/maniiasov"  target="_blank">maniiasov</a></li>
@@ -149,7 +149,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Divyasree345.jpeg' style="height:150px: width:150px;" alt='Divyasree345 github photo' /></td>
+  <td><img src='./lib/avatars/students/Divyasree345.jpeg' height="150px" width="150px" alt='Divyasree345 github photo' /></td>
   <td> <h3 display="inline"><a href="https://Divyasree345.github.io" target="_blank">Divya Sree</a></h3>
     <ul>
         <li><a href="https://github.com/Divyasree345"  target="_blank">Divyasree345</a></li>
@@ -159,7 +159,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/emelysalmeron.jpeg' style="height:150px: width:150px;" alt='emelysalmeron github photo' /></td>
+  <td><img src='./lib/avatars/students/emelysalmeron.jpeg' height="150px" width="150px" alt='emelysalmeron github photo' /></td>
   <td> <h3 display="inline"><a href="https://emelysalmeron.github.io" target="_blank">Emely Roxana</a></h3>
     <ul>
         <li><a href="https://github.com/emelysalmeron"  target="_blank">emelysalmeron</a></li>
@@ -169,7 +169,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Houcinos.jpeg' style="height:150px: width:150px;" alt='Houcinos github photo' /></td>
+  <td><img src='./lib/avatars/students/Houcinos.jpeg' height="150px" width="150px" alt='Houcinos github photo' /></td>
   <td> <h3 display="inline"><a href="https://Houcinos.github.io" target="_blank">Houcine</a></h3>
     <ul>
         <li><a href="https://github.com/Houcinos"  target="_blank">Houcinos</a></li>
@@ -179,7 +179,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/himanshisaxena.jpeg' style="height:150px: width:150px;" alt='himanshisaxena github photo' /></td>
+  <td><img src='./lib/avatars/students/himanshisaxena.jpeg' height="150px" width="150px" alt='himanshisaxena github photo' /></td>
   <td> <h3 display="inline"><a href="https://himanshisaxena.github.io" target="_blank">Himanshi</a></h3>
     <ul>
         <li><a href="https://github.com/himanshisaxena"  target="_blank">himanshisaxena</a></li>
@@ -189,7 +189,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/jraoul2002.jpeg' style="height:150px: width:150px;" alt='jraoul2002 github photo' /></td>
+  <td><img src='./lib/avatars/students/jraoul2002.jpeg' height="150px" width="150px" alt='jraoul2002 github photo' /></td>
   <td> <h3 display="inline"><a href="https://jraoul2002.github.io" target="_blank">Raoul</a></h3>
     <ul>
         <li><a href="https://github.com/jraoul2002"  target="_blank">jraoul2002</a></li>
@@ -199,7 +199,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/KrystynaMil.jpeg' style="height:150px: width:150px;" alt='KrystynaMil github photo' /></td>
+  <td><img src='./lib/avatars/students/KrystynaMil.jpeg' height="150px" width="150px" alt='KrystynaMil github photo' /></td>
   <td> <h3 display="inline"><a href="https://KrystynaMil.github.io" target="_blank">Krystyna</a></h3>
     <ul>
         <li><a href="https://github.com/KrystynaMil"  target="_blank">KrystynaMil</a></li>
@@ -209,7 +209,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/kemmy72.jpeg' style="height:150px: width:150px;" alt='kemmy72 github photo' /></td>
+  <td><img src='./lib/avatars/students/kemmy72.jpeg' height="150px" width="150px" alt='kemmy72 github photo' /></td>
   <td> <h3 display="inline"><a href="https://kemmy72.github.io" target="_blank">Kemi</a></h3>
     <ul>
         <li><a href="https://github.com/kemmy72"  target="_blank">kemmy72</a></li>
@@ -219,7 +219,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/LiubovPlugar.jpeg' style="height:150px: width:150px;" alt='LiubovPlugar github photo' /></td>
+  <td><img src='./lib/avatars/students/LiubovPlugar.jpeg' height="150px" width="150px" alt='LiubovPlugar github photo' /></td>
   <td> <h3 display="inline"><a href="https://LiubovPlugar.github.io" target="_blank">Liubov</a></h3>
     <ul>
         <li><a href="https://github.com/LiubovPlugar"  target="_blank">LiubovPlugar</a></li>
@@ -229,7 +229,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/lauraramirez220612.jpeg' style="height:150px: width:150px;" alt='lauraramirez220612 github photo' /></td>
+  <td><img src='./lib/avatars/students/lauraramirez220612.jpeg' height="150px" width="150px" alt='lauraramirez220612 github photo' /></td>
   <td> <h3 display="inline"><a href="https://lauraramirez220612.github.io" target="_blank">Laura Alicia</a></h3>
     <ul>
         <li><a href="https://github.com/lauraramirez220612"  target="_blank">lauraramirez220612</a></li>
@@ -239,7 +239,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/krakla.jpeg' style="height:150px: width:150px;" alt='krakla github photo' /></td>
+  <td><img src='./lib/avatars/students/krakla.jpeg' height="150px" width="150px" alt='krakla github photo' /></td>
   <td> <h3 display="inline"><a href="https://krakla.github.io" target="_blank">Mahmoud</a></h3>
     <ul>
         <li><a href="https://github.com/krakla"  target="_blank">krakla</a></li>
@@ -249,7 +249,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/sashinskaya.jpeg' style="height:150px: width:150px;" alt='sashinskaya github photo' /></td>
+  <td><img src='./lib/avatars/students/sashinskaya.jpeg' height="150px" width="150px" alt='sashinskaya github photo' /></td>
   <td> <h3 display="inline"><a href="https://sashinskaya.github.io" target="_blank">Maria</a></h3>
     <ul>
         <li><a href="https://github.com/sashinskaya"  target="_blank">sashinskaya</a></li>
@@ -259,7 +259,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/mariebelyse.jpeg' style="height:150px: width:150px;" alt='mariebelyse github photo' /></td>
+  <td><img src='./lib/avatars/students/mariebelyse.jpeg' height="150px" width="150px" alt='mariebelyse github photo' /></td>
   <td> <h3 display="inline"><a href="https://mariebelyse.github.io" target="_blank">Marie Belyse</a></h3>
     <ul>
         <li><a href="https://github.com/mariebelyse"  target="_blank">mariebelyse</a></li>
@@ -269,7 +269,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Moon-NguyetDuong.jpeg' style="height:150px: width:150px;" alt='Moon-NguyetDuong github photo' /></td>
+  <td><img src='./lib/avatars/students/Moon-NguyetDuong.jpeg' height="150px" width="150px" alt='Moon-NguyetDuong github photo' /></td>
   <td> <h3 display="inline"><a href="https://Moon-NguyetDuong.github.io" target="_blank">Moon</a></h3>
     <ul>
         <li><a href="https://github.com/Moon-NguyetDuong"  target="_blank">Moon-NguyetDuong</a></li>
@@ -279,7 +279,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/peymanshahmarimikaeeldarehsi.jpeg' style="height:150px: width:150px;" alt='peymanshahmarimikaeeldarehsi github photo' /></td>
+  <td><img src='./lib/avatars/students/peymanshahmarimikaeeldarehsi.jpeg' height="150px" width="150px" alt='peymanshahmarimikaeeldarehsi github photo' /></td>
   <td> <h3 display="inline"><a href="https://peymanshahmarimikaeeldarehsi.github.io" target="_blank">Peyman</a></h3>
     <ul>
         <li><a href="https://github.com/peymanshahmarimikaeeldarehsi"  target="_blank">peymanshahmarimikaeeldarehsi</a></li>
@@ -289,7 +289,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Preeti-t.jpeg' style="height:150px: width:150px;" alt='Preeti-t github photo' /></td>
+  <td><img src='./lib/avatars/students/Preeti-t.jpeg' height="150px" width="150px" alt='Preeti-t github photo' /></td>
   <td> <h3 display="inline"><a href="https://Preeti-t.github.io" target="_blank">Preeti</a></h3>
     <ul>
         <li><a href="https://github.com/Preeti-t"  target="_blank">Preeti-t</a></li>
@@ -299,7 +299,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/rago89.jpeg' style="height:150px: width:150px;" alt='rago89 github photo' /></td>
+  <td><img src='./lib/avatars/students/rago89.jpeg' height="150px" width="150px" alt='rago89 github photo' /></td>
   <td> <h3 display="inline"><a href="https://rago89.github.io" target="_blank">Rafael García</a></h3>
     <ul>
         <li><a href="https://github.com/rago89"  target="_blank">rago89</a></li>
@@ -309,7 +309,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/samirm00.jpeg' style="height:150px: width:150px;" alt='samirm00 github photo' /></td>
+  <td><img src='./lib/avatars/students/samirm00.jpeg' height="150px" width="150px" alt='samirm00 github photo' /></td>
   <td> <h3 display="inline"><a href="https://samirm00.github.io" target="_blank">Samir</a></h3>
     <ul>
         <li><a href="https://github.com/samirm00"  target="_blank">samirm00</a></li>
@@ -319,7 +319,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/Atinos31.jpeg' style="height:150px: width:150px;" alt='Atinos31 github photo' /></td>
+  <td><img src='./lib/avatars/students/Atinos31.jpeg' height="150px" width="150px" alt='Atinos31 github photo' /></td>
   <td> <h3 display="inline"><a href="https://Atinos31.github.io" target="_blank">Sandra</a></h3>
     <ul>
         <li><a href="https://github.com/Atinos31"  target="_blank">Atinos31</a></li>
@@ -329,7 +329,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/sharafcs50.jpeg' style="height:150px: width:150px;" alt='sharafcs50 github photo' /></td>
+  <td><img src='./lib/avatars/students/sharafcs50.jpeg' height="150px" width="150px" alt='sharafcs50 github photo' /></td>
   <td> <h3 display="inline"><a href="https://sharafcs50.github.io" target="_blank">Sharaf</a></h3>
     <ul>
         <li><a href="https://github.com/sharafcs50"  target="_blank">sharafcs50</a></li>
@@ -339,7 +339,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/solomunwelday.jpeg' style="height:150px: width:150px;" alt='solomunwelday github photo' /></td>
+  <td><img src='./lib/avatars/students/solomunwelday.jpeg' height="150px" width="150px" alt='solomunwelday github photo' /></td>
   <td> <h3 display="inline"><a href="https://solomunwelday.github.io" target="_blank">Solomon Welday</a></h3>
     <ul>
         <li><a href="https://github.com/solomunwelday"  target="_blank">solomunwelday</a></li>
@@ -349,7 +349,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/sabanyelkenci.jpeg' style="height:150px: width:150px;" alt='sabanyelkenci github photo' /></td>
+  <td><img src='./lib/avatars/students/sabanyelkenci.jpeg' height="150px" width="150px" alt='sabanyelkenci github photo' /></td>
   <td> <h3 display="inline"><a href="https://sabanyelkenci.github.io" target="_blank">Şaban</a></h3>
     <ul>
         <li><a href="https://github.com/sabanyelkenci"  target="_blank">sabanyelkenci</a></li>
@@ -359,7 +359,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./lib/avatars/students/tahminarasoli.jpeg' style="height:150px: width:150px;" alt='tahminarasoli github photo' /></td>
+  <td><img src='./lib/avatars/students/tahminarasoli.jpeg' height="150px" width="150px" alt='tahminarasoli github photo' /></td>
   <td> <h3 display="inline"><a href="https://tahminarasoli.github.io" target="_blank">Tahmina</a></h3>
     <ul>
         <li><a href="https://github.com/tahminarasoli"  target="_blank">tahminarasoli</a></li>
@@ -384,7 +384,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   <ul  style="list-style-type:none;">
 
 <li><table><tr>
-  <td><img src='./lib/avatars/coaches/nawatend.jpeg' style="height:150px; width:150px;" alt='Nawang' /></td>
+  <td><img src='./lib/avatars/coaches/nawatend.jpeg' height="150px" width="150px" alt='Nawang' /></td>
   <td> <h3 display="inline">
       <a href="https://www.nawangtendar.be"  target="_blank">Nawang</a>    </h3>
     <ul>
@@ -394,7 +394,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./lib/avatars/coaches/talmurshidi.jpeg' style="height:150px; width:150px;" alt='Tamar' /></td>
+  <td><img src='./lib/avatars/coaches/talmurshidi.jpeg' height="150px" width="150px" alt='Tamar' /></td>
   <td> <h3 display="inline">
       <a href="https://www.linkedin.com/in/talmurhsidi"  target="_blank">Tamar</a>    </h3>
     <ul>
@@ -404,7 +404,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./lib/avatars/coaches/snicoll.jpeg' style="height:150px; width:150px;" alt='Stéphane' /></td>
+  <td><img src='./lib/avatars/coaches/snicoll.jpeg' height="150px" width="150px" alt='Stéphane' /></td>
   <td> <h3 display="inline">
       <a href="https://about.me/snicoll"  target="_blank">Stéphane</a>    </h3>
     <ul>
@@ -415,7 +415,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./lib/avatars/coaches/otagi.jpeg' style="height:150px; width:150px;" alt='Tiago' /></td>
+  <td><img src='./lib/avatars/coaches/otagi.jpeg' height="150px" width="150px" alt='Tiago' /></td>
   <td> <h3 display="inline">
       <a href="https://www.mendes-costa.net/"  target="_blank">Tiago</a>    </h3>
     <ul>
@@ -426,7 +426,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./lib/avatars/coaches/mariedevos.jpeg' style="height:150px; width:150px;" alt='Marie' /></td>
+  <td><img src='./lib/avatars/coaches/mariedevos.jpeg' height="150px" width="150px" alt='Marie' /></td>
   <td> <h3 display="inline">
       <a href="https://www.behance.net/mariedevos"  target="_blank">Marie</a>    </h3>
     <ul>
@@ -437,7 +437,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./lib/avatars/coaches/unmeshvrije.jpeg' style="height:150px; width:150px;" alt='Unmesh' /></td>
+  <td><img src='./lib/avatars/coaches/unmeshvrije.jpeg' height="150px" width="150px" alt='Unmesh' /></td>
   <td> <h3 display="inline">
 Unmesh    </h3>
     <ul>
