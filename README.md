@@ -8,6 +8,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
 
 <!-- BEGIN LINKS -->
 
+- [Weekly Calendar](#weekly-calendar)
 - [Modules](#modules)
 - [Students](#students)
 - [Coaches](#coaches)
@@ -25,6 +26,58 @@ Slack is great for chatting but links and good explanations can easily get lost 
 - [Curriculum](https://home.hackyourfuture.be/curriculum)
 - [Study](https://study.hackyourfuture.be)
 - [GitHub](https://github.com/hackyourfuturebelgium)
+
+---
+
+## Weekly Calendar
+
+Throughout you HYF course and you overall career as a programmer, you will ‘control your own fate’. 30 hours of study is just the minimum we suggest.
+
+The more you know and the harder you work, the faster you will find yourself in a job you love.
+
+The more you participate and become part of the HYF community, the more people are going to be willing to help you out.
+
+### Sunday
+
+- 11h - 12h: `roll-call` and review
+- 12h - 16h: Class
+
+### Monday
+
+- Plan the week's project
+- Set up the project repository
+- Individual study
+
+### Tuesday
+
+- Begin developing the project
+- Individual study
+
+### Wendesday
+
+- `individual` check-in
+- Class review call
+- Individual study
+
+### Thursday
+
+- Begin prep work for Sunday
+- Individual study
+
+### Friday
+
+- Weekly project MVP
+  - Stop adding new features
+  - Make sure what's there works
+  - Move your issue to READY FOR REVieW
+- Individual study
+
+### Saturday
+
+- Family, friends, rest & play
+- Individual study (optional ;)
+
+[TOP](#class-11-12)
 
 ---
 
