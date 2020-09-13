@@ -41,6 +41,13 @@ The more you participate and become part of the HYF community, the more people a
 
 - 11h - 12h: `roll-call` and review
 - 12h - 16h: Class
+  1. Review
+  2. Presentation 1
+  3. Group work
+  4. Break
+  5. Presentation 2
+  6. Group work
+  7. Homework Launch
 
 ### Monday
 
