@@ -448,6 +448,16 @@ Unmesh    </h3>
 <li><code>Incremental Development</code></li>    </ul>
   </td>
 </tr></table></li>
+<li><table><tr>
+  <td><img src='./lib/avatars/coaches/kevintss.jpeg' height="150px" width="150px" alt='Kevin' /></td>
+  <td> <h3 display="inline">
+      <a href="https://kevintss.github.io/"  target="_blank">Kevin</a>    </h3>
+    <ul>
+        <li><a href="https://github.com/kevintss"  target="_blank">kevintss</a></li>
+        <li><a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=author%3Akevintss"  target="_blank">author</a>, <a href="https://github.com/HackYourFutureBelgium/class-11-12/issues?q=assignee%3Akevintss"  target="_blank">assignee</a></li>
+<li><code>Incremental Development</code></li>    </ul>
+  </td>
+</tr></table></li>
 </ul></details>
 
 

@@ -50,5 +50,13 @@
       "Working with Code",
       "Incremental Development"
     ]
+  },
+  {
+    "name": "Kevin",
+    "userName": "kevintss",
+    "homePage": "https://kevintss.github.io/",
+    "modules": [
+      "Incremental Development"
+    ]
   }
 ]
