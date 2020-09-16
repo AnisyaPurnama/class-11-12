@@ -23,8 +23,10 @@ assignees: ''
 - [ ] Sunday Prep
 <!-- confirm that you have understood the Sunday lesson -->
 - [ ] Sunday Class
-<!-- link to your group's project issue for the week -->
-- [ ] [Project](link_to_issue)
+<!-- link to your week's project -->
+<!-- if it's a group project, link to the group issue -->
+<!-- if it's an individual project, copy-paste the checklist right here -->
+
 
 <!-- the next 4 headers are for Wednesday Check-In -->
 ### Progress
